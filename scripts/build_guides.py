@@ -54,6 +54,7 @@ def page_header(title: str, description: str, canonical_path: str, image: str, s
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" type="image/png" href="{root}assets/logo.png">
 <title>{html.escape(title)}</title>
 <meta name="description" content="{html.escape(truncate(description))}">
 <link rel="canonical" href="{BASE_URL}{canonical_path}">
