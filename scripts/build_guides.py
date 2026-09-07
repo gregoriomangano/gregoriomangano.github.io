@@ -46,6 +46,21 @@ def thumbnail(video: dict) -> str:
     return f"https://i.ytimg.com/vi/{quote(video['videoId'])}/hqdefault.jpg"
 
 
+def mobile_thumbnail(video: dict) -> str:
+    """Use YouTube's broadly available 480px thumbnail on small screens."""
+    return f"https://i.ytimg.com/vi/{quote(video['videoId'])}/hqdefault.jpg"
+
+
+def font_links() -> str:
+    return '''<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap">'''
+
+
+def profile_image(root: str, size: int) -> str:
+    return f'<img src="{root}assets/branding/gregorio-profilo-small.webp" width="{size}" height="{size}" alt="Gregorio Mangano" decoding="async">'
+
+
 def page_header(title: str, description: str, canonical_path: str, image: str, schema: dict) -> str:
     root = "../"
     schema_json = json.dumps(schema, ensure_ascii=False).replace("</", "<\\/")
@@ -68,21 +83,22 @@ def page_header(title: str, description: str, canonical_path: str, image: str, s
 <meta name="twitter:description" content="{html.escape(truncate(description))}">
 <meta name="twitter:image" content="{html.escape(image)}">
 <script type="application/ld+json">{schema_json}</script>
-<link rel="stylesheet" href="{root}style.css">
+{font_links()}
+<link rel="stylesheet" href="{root}style.css?rev=9">
 <link rel="stylesheet" href="guide.css">
 </head>
 <body class="guide-page">
-<header class="site-header"><a class="brand" href="{root}index.html"><img src="{root}assets/branding/gregorio-profilo.jpg" alt="Gregorio Mangano"><span>Gregorio<em>Mangano</em></span></a><nav class="main-nav" aria-label="Navigazione principale"><a href="{root}index.html#chi-sono">Chi sono</a><a href="{root}index.html#servizi">Servizi</a><span class="projects-menu"><a href="{root}index.html#progetti">Progetti</a><details class="projects-dropdown"><summary aria-label="Apri elenco progetti"></summary><div><a href="{root}mg-avviatore.html">M.G Avviatore</a><a href="{root}mg-windows-toolbox.html">M.G Windows Toolbox</a><a href="{root}mg-linux-toolbox.html">M.G Linux Toolbox</a></div></details></span><a href="{root}guide/">Guide</a><a href="{root}index.html#contatti">Contatti</a><a class="nav-donation" href="{root}donazioni.html">♡ Donazioni</a></nav><a class="button button-dark header-cta" href="{root}index.html#contatti">Parliamone ↗</a><button class="menu-toggle" type="button" aria-label="Apri menu" aria-expanded="false" aria-controls="mobile-menu">☰</button><nav id="mobile-menu" class="mobile-menu" aria-label="Menu mobile" hidden><a href="{root}index.html#chi-sono">Chi sono</a><a href="{root}index.html#servizi">Servizi</a><details><summary>Progetti</summary><a href="{root}index.html#progetti">Tutti i progetti</a><a href="{root}mg-avviatore.html">M.G Avviatore</a><a href="{root}mg-windows-toolbox.html">M.G Windows Toolbox</a><a href="{root}mg-linux-toolbox.html">M.G Linux Toolbox</a></details><a href="{root}guide/">Guide</a><a href="{root}index.html#contatti">Contatti</a><a class="nav-donation" href="{root}donazioni.html">♡ Donazioni</a><a class="button button-dark" href="{root}index.html#contatti">Parliamone ↗</a></nav></header>'''
+<header class="site-header"><a class="brand" href="{root}index.html">{profile_image(root, 36)}<span>Gregorio<em>Mangano</em></span></a><nav class="main-nav" aria-label="Navigazione principale"><a href="{root}index.html#chi-sono">Chi sono</a><a href="{root}index.html#servizi">Servizi</a><span class="projects-menu"><a href="{root}index.html#progetti">Progetti</a><details class="projects-dropdown"><summary aria-label="Apri elenco progetti"></summary><div><a href="{root}mg-avviatore.html">M.G Avviatore</a><a href="{root}mg-windows-toolbox.html">M.G Windows Toolbox</a><a href="{root}mg-linux-toolbox.html">M.G Linux Toolbox</a></div></details></span><a href="{root}guide/">Guide</a><a href="{root}index.html#contatti">Contatti</a><a class="nav-donation" href="{root}donazioni.html">♡ Donazioni</a></nav><a class="button button-dark header-cta" href="{root}index.html#contatti">Parliamone ↗</a><button class="menu-toggle" type="button" aria-label="Apri menu" aria-expanded="false" aria-controls="mobile-menu">☰</button><nav id="mobile-menu" class="mobile-menu" aria-label="Menu mobile" hidden><a href="{root}index.html#chi-sono">Chi sono</a><a href="{root}index.html#servizi">Servizi</a><details><summary>Progetti</summary><a href="{root}index.html#progetti">Tutti i progetti</a><a href="{root}mg-avviatore.html">M.G Avviatore</a><a href="{root}mg-windows-toolbox.html">M.G Windows Toolbox</a><a href="{root}mg-linux-toolbox.html">M.G Linux Toolbox</a></details><a href="{root}guide/">Guide</a><a href="{root}index.html#contatti">Contatti</a><a class="nav-donation" href="{root}donazioni.html">♡ Donazioni</a><a class="button button-dark" href="{root}index.html#contatti">Parliamone ↗</a></nav></header>'''
 
 
 def page_footer() -> str:
     root = "../"
-    return f'''<footer class="site-footer rich-footer"><div class="wrap footer-grid"><div class="footer-brand"><a class="brand" href="{root}index.html"><img src="{root}assets/branding/gregorio-profilo.jpg" alt="Gregorio Mangano"><span>Gregorio<em>Mangano</em></span></a><p>Tecnologia spiegata con parole chiare.</p></div><nav><b>Esplora</b><a href="{root}index.html#chi-sono">Chi sono</a><a href="{root}guide/">Guide</a><a href="{root}index.html#contatti">Contatti</a></nav><nav><b>Progetti</b><a href="{root}mg-avviatore.html">M.G Avviatore</a><a href="{root}mg-windows-toolbox.html">M.G Windows Toolbox</a><a href="{root}mg-linux-toolbox.html">M.G Linux Toolbox</a></nav><nav><b>Seguimi</b><a href="https://www.youtube.com/@GregorioMangano" target="_blank" rel="noopener noreferrer">YouTube</a><a href="https://github.com/gregoriomangano" target="_blank" rel="noopener noreferrer">GitHub</a><a href="{root}donazioni.html">♥ Donazioni</a></nav></div><div class="wrap footer-bottom">© 2026 MANGANO GREGORIO</div></footer><script src="{root}site.js"></script></body></html>'''
+    return f'''<footer class="site-footer rich-footer"><div class="wrap footer-grid"><div class="footer-brand"><a class="brand" href="{root}index.html">{profile_image(root, 42)}<span>Gregorio<em>Mangano</em></span></a><p>Tecnologia spiegata con parole chiare.</p></div><nav><b>Esplora</b><a href="{root}index.html#chi-sono">Chi sono</a><a href="{root}guide/">Guide</a><a href="{root}index.html#contatti">Contatti</a></nav><nav><b>Progetti</b><a href="{root}mg-avviatore.html">M.G Avviatore</a><a href="{root}mg-windows-toolbox.html">M.G Windows Toolbox</a><a href="{root}mg-linux-toolbox.html">M.G Linux Toolbox</a></nav><nav><b>Seguimi</b><a href="https://www.youtube.com/@GregorioMangano" target="_blank" rel="noopener noreferrer">YouTube</a><a href="https://github.com/gregoriomangano" target="_blank" rel="noopener noreferrer">GitHub</a><a href="{root}donazioni.html">♥ Donazioni</a></nav></div><div class="wrap footer-bottom">© 2026 MANGANO GREGORIO</div></footer><script src="{root}site.js"></script></body></html>'''
 
 
 def card(video: dict) -> str:
     description = card_description(video.get("description") or video["title"])
-    return f'''<article class="guide-card" data-guide-card data-category="{html.escape(video.get('category', 'Altro'))}"><a href="{html.escape(video['url'])}" target="_blank" rel="noopener noreferrer" aria-label="Guarda su YouTube: {html.escape(video['title'])}"><img src="{html.escape(thumbnail(video))}" alt="Thumbnail del video {html.escape(video['title'])}" loading="lazy"><div class="guide-card-body"><p class="guide-card-meta">{html.escape(video.get('category', 'Altro'))} · {html.escape(date_label(video.get('publishedAt', '')))}</p><h2>{html.escape(video['title'])}</h2><p>{html.escape(truncate(description, 190))}</p><span>Guarda il video ↗</span></div></a></article>'''
+    return f'''<article class="guide-card" data-guide-card data-category="{html.escape(video.get('category', 'Altro'))}"><a href="{html.escape(video['url'])}" target="_blank" rel="noopener noreferrer" aria-label="Guarda su YouTube: {html.escape(video['title'])}"><picture><source media="(max-width: 620px)" srcset="{html.escape(mobile_thumbnail(video))}"><img src="{html.escape(thumbnail(video))}" width="1280" height="720" alt="Thumbnail del video {html.escape(video['title'])}" loading="lazy" decoding="async"></picture><div class="guide-card-body"><p class="guide-card-meta">{html.escape(video.get('category', 'Altro'))} · {html.escape(date_label(video.get('publishedAt', '')))}</p><h2>{html.escape(video['title'])}</h2><p>{html.escape(truncate(description, 190))}</p><span>Guarda il video ↗</span></div></a></article>'''
 
 
 def card_description(value: str) -> str:
