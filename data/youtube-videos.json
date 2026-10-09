@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "synced",
-  "syncedAt": "2026-10-08T11:21:06+00:00",
+  "syncedAt": "2026-10-09T11:18:44+00:00",
   "channel": {
     "channelId": "UCGl-khGU26ic0cJMDIhmscg",
     "title": "Gregorio Mangano",
@@ -10,7 +10,7 @@
   "videos": [
     {
       "videoId": "yzAN4hxifUo",
-      "title": "YOUTUBE NON HA PIÙ SENSO… E QUESTA È LA PROVA",
+      "title": "L'interfaccia di YouTube è diventata inutilizzabile",
       "description": "YouTube ha cambiato ancora una volta la sua interfaccia, spostando commenti e video consigliati e modificando completamente l’esperienza di visione. In questo video ti mostro il nuovo aggiornamento YouTube e ti spiego perché, secondo me, questa nuova scelta rischia di peggiorare ancora di più la piattaforma.",
       "publishedAt": "2026-10-07T10:17:43Z",
       "thumbnails": {
@@ -41,7 +41,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=yzAN4hxifUo",
-      "viewCount": "1087",
+      "viewCount": "1275",
       "duration": "PT4M3S",
       "tags": [],
       "categoryId": "27",
@@ -80,7 +80,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=b4GrSLSnF_k",
-      "viewCount": "594",
+      "viewCount": "609",
       "duration": "PT2M22S",
       "tags": [
         "windows 11",
@@ -131,7 +131,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=f8r5Kj4t4dw",
-      "viewCount": "3735",
+      "viewCount": "3752",
       "duration": "PT6M53S",
       "tags": [
         "linux",
@@ -188,7 +188,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=OUNO9-Yss-o",
-      "viewCount": "3792",
+      "viewCount": "3836",
       "duration": "PT12M55S",
       "tags": [
         "desktop environment",
@@ -247,7 +247,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=wASuICty1os",
-      "viewCount": "2179",
+      "viewCount": "2185",
       "duration": "PT4M56S",
       "tags": [
         "storie di vita reale",
@@ -313,7 +313,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=hnU5Zl1i1VY",
-      "viewCount": "452",
+      "viewCount": "454",
       "duration": "PT3M1S",
       "tags": [],
       "categoryId": "27",
@@ -352,7 +352,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=dQz44D3OaXM",
-      "viewCount": "8390",
+      "viewCount": "8412",
       "duration": "PT7M13S",
       "tags": [
         "ubuntu",
@@ -417,7 +417,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=2PaFTdk1_t0",
-      "viewCount": "2667",
+      "viewCount": "2675",
       "duration": "PT7M24S",
       "tags": [
         "openSUSE",
@@ -476,7 +476,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=OcnmZeBDZPY",
-      "viewCount": "2257",
+      "viewCount": "2259",
       "duration": "PT6M59S",
       "tags": [
         "pizza fatta in casa",
@@ -543,7 +543,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=MxsXTs9lHmI",
-      "viewCount": "9880",
+      "viewCount": "9887",
       "duration": "PT4M36S",
       "tags": [
         "Windows 11",
@@ -607,7 +607,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=COesU7kKuGE",
-      "viewCount": "16263",
+      "viewCount": "16279",
       "duration": "PT10M21S",
       "tags": [
         "AnduinOS",
@@ -674,7 +674,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=r5OciKn8pmM",
-      "viewCount": "4922",
+      "viewCount": "4946",
       "duration": "PT10M34S",
       "tags": [
         "MainstreamOS",
@@ -737,7 +737,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=fXqzaQU0EgQ",
-      "viewCount": "11709",
+      "viewCount": "11727",
       "duration": "PT6M25S",
       "tags": [
         "Omarchy Linux",
@@ -868,7 +868,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=7clhIGLLd-Q",
-      "viewCount": "2258",
+      "viewCount": "2260",
       "duration": "PT5M4S",
       "tags": [
         "Windows 11",
@@ -931,7 +931,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=WPfi-n1Bab8",
-      "viewCount": "1701",
+      "viewCount": "1705",
       "duration": "PT4M59S",
       "tags": [
         "chatgpt",
@@ -982,7 +982,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=2EH7186WU30",
-      "viewCount": "6829",
+      "viewCount": "6835",
       "duration": "PT9M48S",
       "tags": [
         "M.G Windows Toolbox",
@@ -1148,7 +1148,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=wcBmamaFWZo",
-      "viewCount": "2161",
+      "viewCount": "2189",
       "duration": "PT7M40S",
       "tags": [
         "M.G Linux Toolbox",
@@ -1217,7 +1217,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=Bu7Ib25Rr_Y",
-      "viewCount": "2552",
+      "viewCount": "2555",
       "duration": "PT9M59S",
       "tags": [
         "M.G Linux Toolbox",
@@ -1346,7 +1346,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=YNMGYocXdig",
-      "viewCount": "2333",
+      "viewCount": "2344",
       "duration": "PT7M56S",
       "tags": [
         "kimi k3",
@@ -1413,7 +1413,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=6b0Hk5DA9wo",
-      "viewCount": "6648",
+      "viewCount": "6653",
       "duration": "PT15M4S",
       "tags": [
         "Odyssey Linux",
@@ -1478,7 +1478,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=OeSZ05UvZcg",
-      "viewCount": "2716",
+      "viewCount": "2742",
       "duration": "PT5M52S",
       "tags": [
         "Skim",
@@ -1540,7 +1540,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=w0IbmLnZfhs",
-      "viewCount": "3449",
+      "viewCount": "3451",
       "duration": "PT8M17S",
       "tags": [
         "Iperius Remote",
@@ -1597,7 +1597,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=dQdwE4CZsYo",
-      "viewCount": "1003",
+      "viewCount": "1007",
       "duration": "PT5M4S",
       "tags": [
         "Shelly",
@@ -1659,7 +1659,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=fIwr3lODTP8",
-      "viewCount": "2242",
+      "viewCount": "2278",
       "duration": "PT13M22S",
       "tags": [
         "Windows 11",
@@ -1781,7 +1781,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=CM-sndxnQaU",
-      "viewCount": "6578",
+      "viewCount": "6602",
       "duration": "PT3M43S",
       "tags": [
         "linux mint lascia pietra",
@@ -1838,7 +1838,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=WenMKcTTvLI",
-      "viewCount": "3125",
+      "viewCount": "3130",
       "duration": "PT7M25S",
       "tags": [
         "qwen gratuita youtube nasconde",
@@ -1894,7 +1894,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=z1_hgRt_Ez4",
-      "viewCount": "763",
+      "viewCount": "765",
       "duration": "PT16M12S",
       "tags": [
         "testato ogni giorno. vincitore",
@@ -1950,7 +1950,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=TL56ohS4t1s",
-      "viewCount": "1442",
+      "viewCount": "1444",
       "duration": "PT10M39S",
       "tags": [
         "lento sistema gratis nessuno",
@@ -2006,7 +2006,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=zmj-Xxp_7EM",
-      "viewCount": "1424",
+      "viewCount": "1454",
       "duration": "PT3M23S",
       "tags": [
         "rufus adesso ancora spettacolare",
@@ -2062,7 +2062,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=9UAdv8-PdLo",
-      "viewCount": "1168",
+      "viewCount": "1169",
       "duration": "PT2M59S",
       "tags": [
         "utenti linux vogliono veda",
@@ -2118,7 +2118,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=0Foj71Dyd1U",
-      "viewCount": "5862",
+      "viewCount": "5891",
       "duration": "PT8M40S",
       "tags": [
         "ringrazierai solo programma windows.",
@@ -2174,7 +2174,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=3oFABODdLwA",
-      "viewCount": "1637",
+      "viewCount": "1640",
       "duration": "PT16M11S",
       "tags": [
         "modo sbagliato installare programmi",
@@ -2343,7 +2343,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=zLDGlscskPQ",
-      "viewCount": "648",
+      "viewCount": "649",
       "duration": "PT3M15S",
       "tags": [
         "flatpak appimage qual pericoloso",
@@ -2400,7 +2400,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=4efJ2P28Fqo",
-      "viewCount": "2477",
+      "viewCount": "2487",
       "duration": "PT6M17S",
       "tags": [
         "finita arch linux verità",
@@ -2457,7 +2457,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=8lDQY27w2sU",
-      "viewCount": "11883",
+      "viewCount": "11983",
       "duration": "PT12M48S",
       "tags": [
         "lasciato ubuntu mint zorin",
@@ -2519,7 +2519,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=HvykPg1kIfE",
-      "viewCount": "3266",
+      "viewCount": "3277",
       "duration": "PT10M47S",
       "tags": [
         "clonare hard disk reinstallare",
@@ -2575,7 +2575,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=bxJPYF4l0os",
-      "viewCount": "2494",
+      "viewCount": "2502",
       "duration": "PT16M47S",
       "tags": [
         "licenziato windows. ecco lavoro",
@@ -2631,7 +2631,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=ozo_IXC5tcs",
-      "viewCount": "954",
+      "viewCount": "961",
       "duration": "PT7M22S",
       "tags": [
         "winboat parte solo distrugge",
@@ -2687,7 +2687,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=qCQ1AK27O2M",
-      "viewCount": "2007",
+      "viewCount": "2008",
       "duration": "PT5M30S",
       "tags": [
         "linux punisce anche chrome.",
@@ -2856,7 +2856,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=UueoTvy150U",
-      "viewCount": "722",
+      "viewCount": "726",
       "duration": "PT5M35S",
       "tags": [
         "persi risolto minuti casa",
@@ -2972,7 +2972,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=oUZXP1QWrA8",
-      "viewCount": "1635",
+      "viewCount": "1637",
       "duration": "PT4M12S",
       "tags": [
         "launcher gratis appena ucciso",
@@ -3029,7 +3029,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=Gk1ffsL-qxo",
-      "viewCount": "2851",
+      "viewCount": "2855",
       "duration": "PT2M2S",
       "tags": [
         "linux",
@@ -3189,7 +3189,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=AigUtks9WOs",
-      "viewCount": "10511",
+      "viewCount": "10533",
       "duration": "PT10M17S",
       "tags": [
         "italiano creato gestisce linux",
@@ -3246,7 +3246,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=4tgASubB124",
-      "viewCount": "4275",
+      "viewCount": "4276",
       "duration": "PT1M24S",
       "tags": [],
       "categoryId": "27",
@@ -3285,7 +3285,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=aiWdEvyQEJA",
-      "viewCount": "1237",
+      "viewCount": "1243",
       "duration": "PT3M25S",
       "tags": [
         "windows linux stesso risultato",
@@ -3341,7 +3341,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=gq8KX7D_opA",
-      "viewCount": "4835",
+      "viewCount": "4840",
       "duration": "PT2M10S",
       "tags": [],
       "categoryId": "27",
@@ -3380,7 +3380,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=FYjFbVqsFFo",
-      "viewCount": "5834",
+      "viewCount": "5855",
       "duration": "PT2M57S",
       "tags": [],
       "categoryId": "27",
@@ -3419,7 +3419,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=EmLhK_-yWy4",
-      "viewCount": "1683",
+      "viewCount": "1685",
       "duration": "PT1M30S",
       "tags": [],
       "categoryId": "27",
@@ -3515,7 +3515,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=lvvTO9CWDaU",
-      "viewCount": "7692",
+      "viewCount": "7742",
       "duration": "PT7M25S",
       "tags": [
         "rendi linux mint velocissimo",
@@ -3572,7 +3572,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=sviceAqHuoU",
-      "viewCount": "3458",
+      "viewCount": "3460",
       "duration": "PT10M57S",
       "tags": [
         "sblocca vera potenza provato",
@@ -3685,7 +3685,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=oITYtE4qcV8",
-      "viewCount": "2425",
+      "viewCount": "2430",
       "duration": "PT11M42S",
       "tags": [
         "repository linux spiegati zero",
@@ -3742,7 +3742,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=_EnXqaMa8H0",
-      "viewCount": "17347",
+      "viewCount": "17459",
       "duration": "PT37M28S",
       "tags": [
         "guida linux mint 2026",
@@ -3799,7 +3799,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=-x7d9gRsF7M",
-      "viewCount": "2302",
+      "viewCount": "2303",
       "duration": "PT8M59S",
       "tags": [
         "linux windows entrambi",
@@ -3856,7 +3856,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=RmadEixSKcQ",
-      "viewCount": "2767",
+      "viewCount": "2769",
       "duration": "PT6M5S",
       "tags": [
         "essere coglione passa linux",
@@ -3912,7 +3912,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=IpvQW0O-ntM",
-      "viewCount": "15581",
+      "viewCount": "15597",
       "duration": "PT12M55S",
       "tags": [
         "sentirai queste linux",
@@ -3969,7 +3969,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=xyQwFOME7Pc",
-      "viewCount": "11388",
+      "viewCount": "11409",
       "duration": "PT12M45S",
       "tags": [
         "distro linux tool torni",
@@ -4082,7 +4082,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=7UJKOzOyhAc",
-      "viewCount": "2475",
+      "viewCount": "2487",
       "duration": "PT5M55S",
       "tags": [
         "disinstallare linux correttamente pulizia",
@@ -4139,7 +4139,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=F-otW4ilQZg",
-      "viewCount": "4532",
+      "viewCount": "4551",
       "duration": "PT10M31S",
       "tags": [
         "smetti usare crack windows",
@@ -4195,7 +4195,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=ZWWWWRwmBPA",
-      "viewCount": "920",
+      "viewCount": "921",
       "duration": "PT5M6S",
       "tags": [
         "segreto naviga sicuro testa",
@@ -4252,7 +4252,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=yPWsujGRbbU",
-      "viewCount": "4329",
+      "viewCount": "4330",
       "duration": "PT10M29S",
       "tags": [
         "tool incredibile ottimizzare windows",
@@ -4308,7 +4308,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=QDHFgYk5pAM",
-      "viewCount": "7617",
+      "viewCount": "7660",
       "duration": "PT8M1S",
       "tags": [
         "installare tutte linux minuto",
@@ -4365,7 +4365,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=irA02P52XWc",
-      "viewCount": "7779",
+      "viewCount": "7781",
       "duration": "PT12M34S",
       "tags": [
         "siamo ostaggi grande fallimento",
@@ -4478,7 +4478,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=084I3Mk3eVI",
-      "viewCount": "18295",
+      "viewCount": "18342",
       "duration": "PT5M1S",
       "tags": [
         "scovato linux sconosciuto vecchio",
@@ -4534,7 +4534,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=kA-0LsyqEgA",
-      "viewCount": "14182",
+      "viewCount": "14218",
       "duration": "PT8M31S",
       "tags": [
         "windows pieno errori così",
@@ -4590,7 +4590,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=flgxoF1pB7U",
-      "viewCount": "3305",
+      "viewCount": "3317",
       "duration": "PT35M24S",
       "tags": [
         "nuovo formattare installare sistema",
@@ -4758,7 +4758,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=x_-8wnVTXos",
-      "viewCount": "26708",
+      "viewCount": "26741",
       "duration": "PT12M16S",
       "tags": [
         "trovato tool definitivo windows",
@@ -4814,7 +4814,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=lDwrq6cjbKA",
-      "viewCount": "3736",
+      "viewCount": "3745",
       "duration": "PT18M15S",
       "tags": [
         "ubuntu penna persistenza salva",
@@ -4871,7 +4871,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=XEFPJWGvCl0",
-      "viewCount": "19684",
+      "viewCount": "19712",
       "duration": "PT18M50S",
       "tags": [
         "ubuntu contro mint gara",
@@ -4928,7 +4928,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=l7hF_LUrVFI",
-      "viewCount": "11004",
+      "viewCount": "11007",
       "duration": "PT22M3S",
       "tags": [
         "windows setup pulito semplicemente",
@@ -5096,7 +5096,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=PCQLYZP1N8I",
-      "viewCount": "4872",
+      "viewCount": "4880",
       "duration": "PT41M25S",
       "tags": [
         "installare bazzite",
@@ -5154,7 +5154,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=oekn-u_NLD8",
-      "viewCount": "4667",
+      "viewCount": "4676",
       "duration": "PT16M30S",
       "tags": [
         "installare linux senza perdere windows",
@@ -5211,7 +5211,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=X6TmEw5_xS0",
-      "viewCount": "23581",
+      "viewCount": "23610",
       "duration": "PT9M11S",
       "tags": [
         "microsoft pc manager",
@@ -5270,7 +5270,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=v8tlyU-xWAg",
-      "viewCount": "9804",
+      "viewCount": "9821",
       "duration": "PT18M20S",
       "tags": [
         "winboat",
@@ -5503,7 +5503,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=RHn1xGtID5M",
-      "viewCount": "2347",
+      "viewCount": "2358",
       "duration": "PT12M30S",
       "tags": [
         "snap vs flatpak",
@@ -5562,7 +5562,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=4gBFVGQQBkE",
-      "viewCount": "3271",
+      "viewCount": "3276",
       "duration": "PT25M56S",
       "tags": [
         "stampante linux",
@@ -5621,7 +5621,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=lgcsUZhyyW4",
-      "viewCount": "9044",
+      "viewCount": "9050",
       "duration": "PT17M48S",
       "tags": [
         "distro linux",
@@ -5679,7 +5679,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=pDmza5IpWm0",
-      "viewCount": "14349",
+      "viewCount": "14375",
       "duration": "PT11M36S",
       "tags": [
         "linuxtoys",
@@ -5742,7 +5742,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=JH7f-zCl-rQ",
-      "viewCount": "3898",
+      "viewCount": "3913",
       "duration": "PT23M26S",
       "tags": [
         "installare programmi da github",
@@ -5803,7 +5803,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=nLEQfH_D1e4",
-      "viewCount": "3468",
+      "viewCount": "3469",
       "duration": "PT12M10S",
       "tags": [
         "linux news",
@@ -5865,7 +5865,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=k5fvgVAH_jc",
-      "viewCount": "3749",
+      "viewCount": "3750",
       "duration": "PT8M54S",
       "tags": [
         "kernel linux",
@@ -5926,7 +5926,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=maO6YkrhllQ",
-      "viewCount": "17355",
+      "viewCount": "17373",
       "duration": "PT18M30S",
       "tags": [
         "bazzite",
@@ -5988,7 +5988,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=Hz3SqbxU1iE",
-      "viewCount": "13357",
+      "viewCount": "13367",
       "duration": "PT14M3S",
       "tags": [
         "biglinux",
@@ -6049,7 +6049,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=pH7NdZQBTAU",
-      "viewCount": "2340",
+      "viewCount": "2341",
       "duration": "PT14M49S",
       "tags": [
         "linux leggero",
@@ -6170,7 +6170,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=UC6LNkKS0Ns",
-      "viewCount": "3952",
+      "viewCount": "3965",
       "duration": "PT24M40S",
       "tags": [
         "personalizzare linux",
@@ -6349,7 +6349,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=DaedFXNji3s",
-      "viewCount": "3572",
+      "viewCount": "3580",
       "duration": "PT13M18S",
       "tags": [
         "debian vs arch",
@@ -6407,7 +6407,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=VNLHWrXXzDQ",
-      "viewCount": "9605",
+      "viewCount": "9669",
       "duration": "PT18M21S",
       "tags": [
         "dark web",
@@ -6465,7 +6465,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=Ct7W8utyRMc",
-      "viewCount": "4028",
+      "viewCount": "4029",
       "duration": "PT19M34S",
       "tags": [
         "maestro di linux",
@@ -6581,7 +6581,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=Fm6WrAJK-uo",
-      "viewCount": "17893",
+      "viewCount": "17915",
       "duration": "PT12M32S",
       "tags": [
         "migliori distro linux",
@@ -6695,7 +6695,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=Wc3kDdnBePM",
-      "viewCount": "4286",
+      "viewCount": "4301",
       "duration": "PT10M27S",
       "tags": [
         "privacy windows 11",
@@ -6751,7 +6751,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=H2RC1fb3lFs",
-      "viewCount": "3561",
+      "viewCount": "3572",
       "duration": "PT7M6S",
       "tags": [
         "rustdesk",
@@ -6966,7 +6966,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=f0fgaFkyWhM",
-      "viewCount": "1169",
+      "viewCount": "1170",
       "duration": "PT6M14S",
       "tags": [
         "passare a linux",
@@ -7027,7 +7027,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=vNAmQuzSySo",
-      "viewCount": "3631",
+      "viewCount": "3634",
       "duration": "PT10M45S",
       "tags": [
         "mx linux 25 infinity",
@@ -7084,7 +7084,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=Uxy6S51hkMk",
-      "viewCount": "4932",
+      "viewCount": "4938",
       "duration": "PT7M57S",
       "tags": [
         "creare usb avviabile linux",
@@ -7140,7 +7140,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=Xdh73zvs7p8",
-      "viewCount": "6905",
+      "viewCount": "6907",
       "duration": "PT8M19S",
       "tags": [
         "zorin os 18",
@@ -7196,7 +7196,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=ISHwCSkDYM0",
-      "viewCount": "1544",
+      "viewCount": "1553",
       "duration": "PT8M15S",
       "tags": [
         "backup linux",
@@ -7257,7 +7257,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=97BBf06SuW0",
-      "viewCount": "3174",
+      "viewCount": "3175",
       "duration": "PT7M47S",
       "tags": [
         "lmde 7 gigi",
@@ -7314,7 +7314,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=de_UmK7XydM",
-      "viewCount": "1593",
+      "viewCount": "1596",
       "duration": "PT16M3S",
       "tags": [
         "trasformare ubuntu in macos",
@@ -7375,7 +7375,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=CWZBf7MTv24",
-      "viewCount": "2355",
+      "viewCount": "2381",
       "duration": "PT9M21S",
       "tags": [
         "dual boot linux windows",
@@ -7432,7 +7432,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=Ee4za9Bjs4w",
-      "viewCount": "3926",
+      "viewCount": "3938",
       "duration": "PT5M16S",
       "tags": [
         "office su linux",
@@ -7488,7 +7488,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=VBKjhl9OSy4",
-      "viewCount": "738",
+      "viewCount": "740",
       "duration": "PT7M57S",
       "tags": [
         "sudo linux",
@@ -7549,7 +7549,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=Yz3rr_aLYFA",
-      "viewCount": "862",
+      "viewCount": "863",
       "duration": "PT21M16S",
       "tags": [
         "schermata nera linux",
@@ -7610,7 +7610,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=6H1Ix81f5Lg",
-      "viewCount": "1614",
+      "viewCount": "1615",
       "duration": "PT15M33S",
       "tags": [
         "windows vs linux",
@@ -7670,7 +7670,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=wHPR4emJKX0",
-      "viewCount": "5699",
+      "viewCount": "5704",
       "duration": "PT9M12S",
       "tags": [
         "minios linux",
@@ -7727,7 +7727,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=pGU8SjYc4PE",
-      "viewCount": "11066",
+      "viewCount": "11072",
       "duration": "PT8M41S",
       "tags": [
         "winboat linux",
@@ -7846,7 +7846,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=5N3fuGBoVU8",
-      "viewCount": "1973",
+      "viewCount": "1988",
       "duration": "PT11M49S",
       "tags": [
         "steam su linux",
@@ -7908,7 +7908,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=z40sV-AXjtI",
-      "viewCount": "1371",
+      "viewCount": "1380",
       "duration": "PT11M8S",
       "tags": [
         "installare linux mint",
@@ -7966,7 +7966,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=FVU0fE5aw2g",
-      "viewCount": "348",
+      "viewCount": "352",
       "duration": "PT23M4S",
       "tags": [
         "incubare uova di gallina",
@@ -8083,7 +8083,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=6Z92NFHSSLU",
-      "viewCount": "167",
+      "viewCount": "168",
       "duration": "PT14M11S",
       "tags": [
         "intelligenza senza laurea",
@@ -8199,7 +8199,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=cTxqgupL-U0",
-      "viewCount": "188",
+      "viewCount": "189",
       "duration": "PT10M27S",
       "tags": [
         "accessibilità linux",
@@ -8257,7 +8257,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=0uSgEa0TB_0",
-      "viewCount": "6959",
+      "viewCount": "6960",
       "duration": "PT11M13S",
       "tags": [
         "distro linux per principianti",
@@ -8432,7 +8432,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=CLm0EdL7sOo",
-      "viewCount": "637",
+      "viewCount": "649",
       "duration": "PT5M27S",
       "tags": [
         "bazaar linux",
@@ -8547,7 +8547,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=E2YhSHFsUr0",
-      "viewCount": "2221",
+      "viewCount": "2228",
       "duration": "PT32M13S",
       "tags": [
         "installare linux",
@@ -8665,7 +8665,7 @@
         }
       },
       "url": "https://www.youtube.com/watch?v=BSHUB0bYe9c",
-      "viewCount": "1603",
+      "viewCount": "1611",
       "duration": "PT7M50S",
       "tags": [
         "linux mint 22.2",
